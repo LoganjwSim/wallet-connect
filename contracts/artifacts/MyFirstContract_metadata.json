@@ -1,0 +1,58 @@
+{
+	"compiler": {
+		"version": "0.8.22+commit.4fc1097e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "callMyName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"MyFirstcontract.sol": "MyFirstContract"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"MyFirstcontract.sol": {
+			"keccak256": "0xd92a317259ddaddca910db5308055cf6a679eacc92446950402a7ac24ef5513d",
+			"urls": [
+				"bzz-raw://b7b9ac956595889bedc585a1be640c67ab0d904fea81fa1753d7923375e017d7",
+				"dweb:/ipfs/QmQBDSNzteS49pZyVxkzfwM1JjYUgebjgzcX5QDQYHUH37"
+			]
+		}
+	},
+	"version": 1
+}
